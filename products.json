@@ -1,1 +1,40 @@
 
+[
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 29.99,
+      "category": "Electronics",
+      "image": "images/ecron.webp",
+      "rating": 4.7,
+      "reviews_count": 150
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 49.99,
+      "category": "Home",
+      "image": "images/ecron.webp",
+      "rating": 4.2,
+      "reviews_count": 95
+    },
+   {
+      "id": "1",
+      "name": "Product 1",
+      "price": 29.99,
+      "category": "Electronics",
+      "image": "images/ecron.webp",
+      "rating": 4.7,
+      "reviews_count": 150
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 49.99,
+      "category": "Home",
+      "image": "images/ecron.webp",
+      "rating": 4.2,
+      "reviews_count": 95
+    }.
+  ]
+  
