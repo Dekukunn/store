@@ -5,7 +5,7 @@
       "name": "Product 1",
       "price": 29.99,
       "category": "Electronics",
-      "image": "assets/images/ecron.webp",
+      "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
       "rating": 4.7,
       "reviews_count": 150
     },
@@ -14,7 +14,7 @@
       "name": "Product 2",
       "price": 49.99,
       "category": "Home",
-      "image": "assets/images/ecron.webp",
+      "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
       "rating": 4.2,
       "reviews_count": 95
     },
@@ -23,7 +23,7 @@
       "name": "Product 1",
       "price": 29.99,
       "category": "Electronics",
-      "image": "assets/images/ecron.webp",
+      "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
       "rating": 4.7,
       "reviews_count": 150
     },
@@ -32,7 +32,7 @@
       "name": "Product 2",
       "price": 49.99,
       "category": "Home",
-      "image": "assets/images/ecron.webp",
+      "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
       "rating": 4.2,
       "reviews_count": 95
     }.
