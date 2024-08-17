@@ -8,8 +8,7 @@
       "image": "https://global.aorus.com/upload/Product/F_20201230135856TD1TZv.JPG",
       "rating": 4.7,
       "reviews_count": 150,
-        "namecategory":"pc",
-        "imagecategory": "https://global.aorus.com/upload/Product/F_20201230135856TD1TZv.JPG",
+        
     },
     {
       "id": "2",
@@ -19,8 +18,7 @@
       "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
       "rating": 4.2,
       "reviews_count": 95,
-         "namecategory":"pc",
-        "imagecategory": "https://global.aorus.com/upload/Product/F_20201230135856TD1TZv.JPG",
+        
     },
    {
       "id": "1",
@@ -30,8 +28,7 @@
       "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
       "rating": 4.7,
       "reviews_count": 150,
-        "namecategory":"pc",
-        "imagecategory": "https://global.aorus.com/upload/Product/F_20201230135856TD1TZv.JPG",
+        
     },
     {
       "id": "2",
@@ -41,7 +38,6 @@
       "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
       "rating": 4.2,
       "reviews_count": 95,
-         "namecategory":"pc",
-        "imagecategory": "https://global.aorus.com/upload/Product/F_20201230135856TD1TZv.JPG",
+      
     }
   ]
