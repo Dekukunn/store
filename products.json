@@ -1,5 +1,23 @@
 
 [
+      {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Laptops",
+      "imagePath":"https://global.aorus.com/upload/Product/F_20201230135856TD1TZv.JPG",
+    },
+      {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Laptops",
+      "imagePath":"https://global.aorus.com/upload/Product/F_20201230135856TD1TZv.JPG",
+    },
+      {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Laptops",
+      "imagePath":"https://global.aorus.com/upload/Product/F_20201230135856TD1TZv.JPG",
+    },
     {
       "id": "1",
       "name": "Product 1",
