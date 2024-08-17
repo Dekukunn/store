@@ -1,12 +1,29 @@
 
 [
+         {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Laptops",
+      "imagePath": "path/to/image"
+    },
+     {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Laptops",
+      "imagePath": "path/to/image"
+    },
+     {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Laptops",
+      "imagePath": "path/to/image"
+    },
     {
       "id": "1",
       "name": "Product 1",
       "price": 29.99,
       "category": "Electronics",
       "image": "https://global.aorus.com/upload/Product/F_20201230135856TD1TZv.JPG",
-      "namecategory":"pc",
       "rating": 4.7,
       "reviews_count": 150
     },
@@ -16,7 +33,6 @@
       "price": 49.99,
       "category": "Home",
       "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
-      "namecategory":"pc",
       "rating": 4.2,
       "reviews_count": 95
     },
@@ -26,7 +42,6 @@
       "price": 29.99,
       "category": "Electronics",
       "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
-      "namecategory":"pc",
       "rating": 4.7,
       "reviews_count": 150
     },
@@ -36,9 +51,9 @@
       "price": 49.99,
       "category": "Home",
       "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
-      "namecategory":"pc",
       "rating": 4.2,
       "reviews_count": 95
     }
+
   ]
   
