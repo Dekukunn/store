@@ -4,7 +4,7 @@
     "name": "Laptop A",
     "price": 999.99,
     "category": "Laptops",
-    "image": "assets/images/laptop_a.jpg",
+    "image": "https://tiimg.tistatic.com/fp/3/007/474/high-end-desktop-computer-for-personal-office-use-813.jpg",
     "rating": 4.7,
     "reviewsCount": 120
   },
